@@ -1,0 +1,14 @@
+,0
+correlation_sentiment_vs_daily_pnl,-0.2429
+fear_total_pnl,3149994.35
+greed_total_pnl,1493910.11
+fear_avg_pnl_per_trade,200.9
+greed_avg_pnl_per_trade,91.88
+best_sentiment_by_win_rate,Neutral
+worst_sentiment_by_win_rate,Greed
+best_sentiment_by_total_pnl,Fear
+worst_sentiment_by_total_pnl,Extreme Greed
+total_trades_analyzed,90933
+unique_traders,16
+date_range_start,2023-05-01
+date_range_end,2025-05-01
